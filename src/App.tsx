@@ -1,4 +1,4 @@
-import { useRef, useState, useEffect, useCallback } from 'react'
+import { useRef, useState, useEffect } from 'react'
 import { motion, useScroll, useTransform, AnimatePresence } from 'motion/react'
 import { ArrowRight, Flame, Sword, Shield, Star, ChevronDown, Wind, Zap, X, ExternalLink, Play, Music2 } from 'lucide-react'
 import ScrollReveal from './components/ScrollReveal'
